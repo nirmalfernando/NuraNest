@@ -36,7 +36,7 @@
 
 ### **Admin Panel**
 - **Framework**: React.js with Vite
-- **Styling**: Tailwind CSS or Material-UI
+- **Styling**: Tailwind CSS
 
 ### **Backend**
 - **Framework**: Node.js with Express.js
